@@ -12,6 +12,8 @@
 
   printf("Cameron White, Grant White\n");
   printf("Electrical Engineering\n");
+  printf("Cameron White\n");
+  printf("Computer Science\n");
 
   return 0;
 }
