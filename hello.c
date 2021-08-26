@@ -11,6 +11,7 @@
   int main(int argc, char **argv) {
 
   printf("Cameron White, Grant White\n");
+  printf("Electrical Engineering\n");
 
   return 0;
 }
